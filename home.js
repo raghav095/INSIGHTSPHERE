@@ -50,7 +50,7 @@ function savePreferences() {
         localStorage.setItem('preferred_categories', JSON.stringify(selectedPreferences));
 
         console.log("Preferences saved!"); 
-        window.location.href = "index.html"; 
+    window.location.href = "main.html"; 
     } else {
         alert('Please select at least one preference');
     }
