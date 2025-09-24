@@ -38,7 +38,7 @@ A modern, responsive news application that delivers curated news articles from t
 ![Registration Form](assets/screenshots/registration.png)
 *Clean registration form with real-time validation*
 
-![Prefernce Page](assets/screenshots/registration.png)
+![Prefernce Page](assets/screenshots/preference.png)
 *Simple registration process with personalized news category selection*
 
 ### Main News Feed (Light Mode)
