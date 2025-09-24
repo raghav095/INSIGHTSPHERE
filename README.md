@@ -32,21 +32,24 @@ A modern, responsive news application that delivers curated news articles from t
 
 ## 📸 Screenshots
 
+
+
+### Registration & Preferences 
+![Registration Form](assets/screenshots/registration.png)
+*Clean registration form with real-time validation*
+
+![Prefernce Page](assets/screenshots/registration.png)
+*Simple registration process with personalized news category selection*
+
 ### Main News Feed (Light Mode)
 ![News Feed Light Mode](assets/screenshots/miannewsfeddlightmode.png)
 *Browse the latest news articles with our clean, modern interface*
-
-### Registration & Preferences 
-![Registration Page](assets/screenshots/registration.png)
-*Simple registration process with personalized news category selection*
 
 ### Main News Feed (Dark Mode)
 ![News Feed Dark Mode](assets/screenshots/darkmodemainnewsfeed.png)
 *Comfortable dark theme for reading news in low-light conditions*
 
-### Registration Form
-![Registration Form](assets/screenshots/registration-form.png)
-*Clean registration form with real-time validation*
+
 
 ## 🚀 Getting Started
 
