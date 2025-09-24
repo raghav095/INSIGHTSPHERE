@@ -22,7 +22,7 @@ window.onload = function () {
 };
 
 const API_KEY = "72185eddd7a349e2e68fcb208b735812";
-const url = "https://gnews.io/api/v4/search?q=";
+const url = "https://gnews.io/api/v4/search?q=";k
 
 let currentPage = 1;
 const articlesPerPage = 12;
