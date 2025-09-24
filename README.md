@@ -45,7 +45,7 @@ A modern, responsive news application that delivers curated news articles from t
 *Comfortable dark theme for reading news in low-light conditions*
 
 ### Registration Form
-![Registration Form]("C:\Users\rathi\OneDrive\Pictures\Screenshots\Screenshot 2025-09-25 005238.png")
+![Registration Form]("assets/screenshots/news-feed-dark.png")
 *Clean registration form with real-time validation*
 
 ## 🚀 Getting Started
