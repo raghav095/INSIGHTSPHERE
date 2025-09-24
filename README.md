@@ -44,6 +44,10 @@ A modern, responsive news application that delivers curated news articles from t
 ![News Feed Dark Mode](assets/screenshots/darkmodemainnewsfeed.png)
 *Comfortable dark theme for reading news in low-light conditions*
 
+### Registration Form
+![Registration Form](assets/screenshots/registration-form.png)
+*Clean registration form with real-time validation*
+
 ## 🚀 Getting Started
 
 ### Live Demo
