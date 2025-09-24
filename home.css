@@ -157,6 +157,24 @@ button:hover {
     color: #000;
 }
 
+/* Error styling for form validation */
+.input-error {
+    border: 2px solid #ff4444 !important;
+    background-color: #fff5f5 !important;
+}
+
+.error-message {
+    color: #ff4444;
+    font-size: 0.9rem;
+    margin-top: 5px;
+    display: block;
+}
+
+.field-group {
+    margin-bottom: 1rem;
+    position: relative;
+}
+
 .preferences-container {
     margin-top: 0.5rem;
     display: flex;
