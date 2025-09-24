@@ -30,6 +30,24 @@ A modern, responsive news application that delivers curated news articles from t
 - Efficient API usage with request optimization
 - Pagination for better content management
 
+## 📸 Screenshots
+
+### Main News Feed (Light Theme)
+![News Feed Light Theme](assets/screenshots/news-feed-light.png)
+*Browse the latest news articles with our clean, modern interface*
+
+### Registration & Preferences 
+![Registration Page](assets/screenshots/registration.png)
+*Simple registration process with personalized news category selection*
+
+### Main News Feed (Dark Theme)
+![News Feed Dark Theme](assets/screenshots/news-feed-dark.png)
+*Comfortable dark theme for reading news in low-light conditions*
+
+### Registration Form
+![Registration Form](assets/screenshots/registration-form.png)
+*Clean registration form with real-time validation*
+
 ## 🚀 Getting Started
 
 ### Live Demo
