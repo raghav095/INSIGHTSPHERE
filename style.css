@@ -197,11 +197,24 @@ nav:hover {
     width: 40px;
     height: 40px;
     border-radius: 50px;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+}
+
+#themeToggle:hover {
+    background-color: rgba(255, 193, 7, 0.2);
 }
 
 #themeIcon{
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
 }
 
 main {

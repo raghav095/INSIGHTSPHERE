@@ -424,17 +424,17 @@ themeToggle.addEventListener("click", () => {
     const theme = document.body.classList.contains("night") ? "night" : "light";
     localStorage.setItem("theme", theme); 
     if (document.body.classList.contains("night")) {
-        themeIcon.src = "sun.png";
+        themeIcon.src = "assets/icons/sun.png";
     } else {
-        themeIcon.src = "night-mode.png";
+        themeIcon.src = "assets/icons/night-mode.png";
     }
 });
 
 const savedTheme = localStorage.getItem("theme");
 if (savedTheme === "night") {
     document.body.classList.add("night");
-    themeIcon.src = "sun.png";
+    themeIcon.src = "assets/icons/sun.png";
 } else {
     document.body.classList.remove("night");
-    themeIcon.src = "night-mode.png";
+    themeIcon.src = "assets/icons/night-mode.png";
 }
